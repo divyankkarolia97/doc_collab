@@ -1,0 +1,14 @@
+{
+  "name": "doc_collab",
+  "version": "1.0.0",
+  "description": "A real time application where you & your friends collab simultaneously",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "divyankkarolia97 && harshitbisht99",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
